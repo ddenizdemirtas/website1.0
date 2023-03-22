@@ -104,7 +104,7 @@
 
 body {
     background-color: #191919;
-    background-image: url("/Users/denizdemirtas/Desktop/cs198-99/Website/docs/assets/websitBackground.jpg");
+    background-image: url("/docs/assets/websitBackground.jpg");
     background-attachment: scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
